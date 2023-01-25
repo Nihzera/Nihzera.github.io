@@ -64,10 +64,15 @@ h2{
     text-decoration: none;
     color: rgb(54,77,204);
     font-weight: bold;
+    box-shadow: 0 0 20px white;
 }
 
 .link-list li a span{
     color: gray;
     display: block;
     margin-top: 10px;
+}
+
+.second li a{
+    box-shadow: 0 0 0 black;
 }
